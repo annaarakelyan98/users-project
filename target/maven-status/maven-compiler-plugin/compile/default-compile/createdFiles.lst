@@ -1,0 +1,12 @@
+com/bank/file/WriterImpl.class
+com/bank/service/UserStorageServiceImpl.class
+com/bank/operation/OperationType.class
+com/bank/file/ReaderImpl.class
+com/bank/file/Writer.class
+com/bank/model/User.class
+com/bank/Main2.class
+com/bank/storage/UserStorage.class
+com/bank/operation/UserOperation.class
+com/bank/service/UserStorageService.class
+com/bank/operation/UserOperationImpl.class
+com/bank/file/Reader.class
